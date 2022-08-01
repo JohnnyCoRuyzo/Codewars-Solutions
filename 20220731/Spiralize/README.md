@@ -1,4 +1,4 @@
-# Battleship field validator
+# Make a spiral
 
 Your task, is to create a NxN spiral with a given size.
 
