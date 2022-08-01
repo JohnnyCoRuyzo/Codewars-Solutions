@@ -2,13 +2,18 @@ Write a method that takes a field for well-known board game "Battleship" as an a
 
 Battleship (also Battleships or Sea Battle) is a guessing game for two players. Each player has a 10x10 grid containing several "ships" and objective is to destroy enemy's forces by targetting individual cells on his field. The ship occupies one or more cells in the grid. Size and number of ships may differ from version to version. In this kata we will use Soviet/Russian version of the game.
 
+![image](https://user-images.githubusercontent.com/35718620/182051603-9484a84d-0293-4875-b93a-11ad2b1675c5.png)
 
 Before the game begins, players set up the board and place the ships accordingly to the following rules:
 There must be single battleship (size of 4 cells), 2 cruisers (size 3), 3 destroyers (size 2) and 4 submarines (size 1). Any additional ships are not allowed, as well as missing ships.
 Each ship must be a straight line, except for submarines, which are just single cell.
 
+![image](https://user-images.githubusercontent.com/35718620/182051611-31ef84f3-ce82-4494-a66b-4a09627b2d30.png)
+
 The ship cannot overlap or be in contact with any other ship, neither by edge nor by corner.
 
-This is all you need to solve this kata. If you're interested in more information about the game, visit [this link|http://en.wikipedia.org/wiki/Battleship_(game)].
+![image](https://user-images.githubusercontent.com/35718620/182051620-b1e6e051-001a-481d-abb4-ddec47b3b96b.png)
 
-Kata: https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7/train/csharp
+This is all you need to solve this kata. If you're interested in more information about the game, visit [this link](http://en.wikipedia.org/wiki/Battleship_(game)).
+
+Kata: https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7
