@@ -31,3 +31,5 @@ We think if you keep on this trail you should be able to crack the code! You are
 public static string Decode(string p_what)
 ```
 function. Good luck ! General Patron is counting on you!
+
+Kata: https://www.codewars.com/kata/52cf02cd825aef67070008fa
